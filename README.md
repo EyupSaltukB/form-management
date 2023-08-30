@@ -1,6 +1,6 @@
 <h1> Form Yönetimi </h1>
 
-Form yönetim özelliklerine uygun bir yönetim ekranıdır.
+Doldurulması gereken alanların özelliklerine uygun bir form yönetim ekranıdır.
 
 <h2> Kullanılan Teknolojiler </h2>
 
