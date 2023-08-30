@@ -9,7 +9,7 @@ React ile oluşturuldu.
 • HTML 
 • CSS kullanıldı.
 
-<h4> Ekran Görüntüleri <h4>
+<h3> Ekran Görüntüleri </h3>
 ![](assets/images/screen1.png)
 ![](assets/images/screen2.png)
 ![](assets/images/screen3.png)
