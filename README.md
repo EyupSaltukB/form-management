@@ -1,4 +1,4 @@
-<h1> Form Yönetimi <h1>
+<h1> Form Yönetimi </h1>
 
 Form yönetim özelliklerine uygun bir yönetim ekranıdır.
 
