@@ -5,17 +5,20 @@ Doldurulması gereken alanların özelliklerine uygun bir form yönetim ekranıd
 <h2> Kullanılan Teknolojiler </h2>
 
 React ile oluşturuldu.
+
 • Javascript
 • HTML 
 • CSS kullanıldı.
 
-<h3> Ekran Görüntüleri </h3>
+<h3> Kaynaklar </h3>
+
+<h4> Ekran Görüntüleri </h4>
 ![](assets/images/screen1.png)
 ![](assets/images/screen2.png)
 ![](assets/images/screen3.png)
 ![](assets/images/screen4.png)
 
-<h4> GIF </h4>
+<h5> GIF </h5>
 ![](assets/images/form.gif)
 
 
