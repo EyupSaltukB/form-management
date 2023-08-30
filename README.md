@@ -11,17 +11,20 @@ Doldurulması gereken alanların özelliklerine uygun bir form yönetim ekranıd
 - CSS kullanıldı.
 
 <h3> Kaynaklar </h3>
+
 - uuid kütüphanesi kullanıldı.
 - Bootstrap kullanıldı.
 - Font Awesome kullanıldı.
 
 <h4> Ekran Görüntüleri </h4>
+
 ![](assets/images/screen1.png)
 ![](assets/images/screen2.png)
 ![](assets/images/screen3.png)
 ![](assets/images/screen4.png)
 
 <h5> GIF </h5>
+
 ![](assets/images/form.gif)
 
 
