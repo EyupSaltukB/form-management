@@ -4,7 +4,7 @@ Doldurulması gereken alanların özelliklerine uygun bir form yönetim ekranıd
 
 <h2> Kullanılan Teknolojiler </h2>
 
-React ile oluşturuldu.
+- React ile oluşturuldu.
 
 • Javascript
 • HTML 
