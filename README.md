@@ -2,6 +2,12 @@
 
 Form yönetim özelliklerine uygun bir yönetim ekranıdır.
 
+<h2> Kullanılan Teknolojiler </h2>
+
+React ile oluşturuldu.
+• Javascript
+• HTML 
+• CSS kullanıldı.
 
 <h4> Ekran Görüntüleri <h4>
 ![](assets/images/screen1.png)
