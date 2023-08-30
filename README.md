@@ -6,11 +6,14 @@ Doldurulması gereken alanların özelliklerine uygun bir form yönetim ekranıd
 
 - React ile oluşturuldu.
 
-• Javascript
-• HTML 
-• CSS kullanıldı.
+- Javascript
+- HTML 
+- CSS kullanıldı.
 
 <h3> Kaynaklar </h3>
+- uuid kütüphanesi kullanıldı.
+- Bootstrap kullanıldı.
+- Font Awesome kullanıldı.
 
 <h4> Ekran Görüntüleri </h4>
 ![](assets/images/screen1.png)
