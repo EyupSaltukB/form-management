@@ -15,7 +15,7 @@ React ile oluşturuldu.
 ![](assets/images/screen3.png)
 ![](assets/images/screen4.png)
 
-<h4> GIF <h4>
+<h4> GIF </h4>
 ![](assets/images/form.gif)
 
 
