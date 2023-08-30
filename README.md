@@ -10,11 +10,12 @@ Doldurulması gereken alanların özelliklerine uygun bir form yönetim ekranıd
 - HTML 
 - CSS kullanıldı.
 
-<h3> Kaynaklar </h3>
+<h3> Kullanılan Kaynaklar </h3>
 
 - uuid kütüphanesi kullanıldı.
 - Bootstrap kullanıldı.
 - Font Awesome kullanıldı.
+- Regex (Regular Expression) kullanıldı.
 
 <h4> Ekran Görüntüleri </h4>
 
