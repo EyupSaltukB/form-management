@@ -1,6 +1,7 @@
 <h1> Form Yönetimi </h1>
 
-Doldurulması gereken alanların özelliklerine uygun bir form yönetim ekranıdır.
+Çeşitli sitelerde kayıt olurken/giriş yaparken vb. durumlarda kullanılan, 
+gerekli alanların özelliklerine uygun bir form yönetimi sağlayan yönetim arayüzüdür.
 
 <h2> Kullanılan Teknolojiler </h2>
 
